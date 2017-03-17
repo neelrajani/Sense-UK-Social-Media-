@@ -3,10 +3,10 @@
 #Installing TwitteR package
 install.packages("twitteR")
 library(twitteR)
-consumer_key <- "Lt3tNBPAiH3Ux6UZgSERFprun"
-consumer_secret <- 	"TC6uVEC3dhI9Dc90FaoqKSkL2yMupqGFC9SR0wONxTrhajQAvP"
-access_token <- 	"1553212526-AeL3nH6RHySSkiaOniopXJ5Z8h8Ab6dBnE28uTt"
-access_secret <- 	"jLWMw07vYvoTqAp5JcyqfJczd6bblUhaLaUsb2I5g8teq"
+consumer_key <- xxxx
+consumer_secret <- 	xxxx
+access_token <- 	xxxx
+access_secret <- 	xxxx
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 
 #Getting List of Followers
