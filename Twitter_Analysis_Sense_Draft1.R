@@ -1,7 +1,7 @@
 #Twitter Analysis for Sense
 
 #Importing Data - Imported data without the actual words for now
-dataset = read.csv('Sense_Sample_data_2016_Twitter.csv')
+dataset = read.csv(xxxx)
 
 #Don't need a few columns as not relevant for correlations
 dataset$Link = NULL
